@@ -26,6 +26,6 @@ react web app https://github.com/JetLi1031/CheckInventory/tree/main/reactserver
 
 <p align="center">
   <img 
-    src="(https://github.com/JetLi1031/CheckInventory/blob/main/output.gif"
+    src="https://github.com/JetLi1031/CheckInventory/blob/main/output.gif"
   >
 </p>
