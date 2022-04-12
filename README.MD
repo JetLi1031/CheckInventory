@@ -5,8 +5,9 @@ scanqr.py
 -to avoid repetitive request to server 
 -update zero quantity if qrtag is scanned  
 
-qrserver [Link](https://github.com/JetLi1031/CheckInventory/tree/main/qrserver)
--express web frame work with mongodb (rest api)
+qrserver 
+- https://github.com/JetLi1031/CheckInventory/tree/main/qrserver
+- express web frame work with mongodb (rest api)
 -to update quantity if stock emptied 
 - mongoose ORM schema 
 {
@@ -18,8 +19,9 @@ qrserver [Link](https://github.com/JetLi1031/CheckInventory/tree/main/qrserver)
   }
   
 
-react web app [Link](https://github.com/JetLi1031/CheckInventory/tree/main/reactserver)
--to Edit,Delete,Create new item with distintive qrcode
+react web app 
+- https://github.com/JetLi1031/CheckInventory/tree/main/reactserver
+- to Edit,Delete,Create new item with distintive qrcode
 - print button available to print coresponded qrcode
 - update date to view empty stock
 
