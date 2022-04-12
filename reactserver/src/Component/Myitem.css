@@ -1,0 +1,22 @@
+.toshow {
+    display: flex;
+    background-color: #83e1fd;  
+    justify-content: space-between; 
+  }
+
+  .toshow.first {
+    /* display: flex; */
+    background-color: #b5ecb2;
+  }
+  
+.toshow > div {
+
+color: rgb(0, 0, 0);
+
+margin: auto;
+text-align: center;
+line-height: 40px;
+flex: 1; 
+/*    */
+/* font-size: 30px; */
+}
