@@ -24,4 +24,4 @@ react web app https://github.com/JetLi1031/CheckInventory/tree/main/reactserver
 - update date to view empty stock
 
 
-![alt text](https://github.com/JetLi1031/NavigatetoArtag/blob/main/output.gif "robot navigate output")
+![alt text](https://github.com/JetLi1031/CheckInventory/blob/main/output.gif "Check Inventory")
