@@ -23,6 +23,9 @@ react web app https://github.com/JetLi1031/CheckInventory/tree/main/reactserver
 - print button available to print coresponded qrcode
 - update date to view empty stock
 
+
 <p align="center">
-![alt text](https://github.com/JetLi1031/CheckInventory/blob/main/output.gif "Check Inventory")
+  <img 
+    src="(https://github.com/JetLi1031/CheckInventory/blob/main/output.gif"
+  >
 </p>
