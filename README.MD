@@ -22,3 +22,6 @@ react web app https://github.com/JetLi1031/CheckInventory/tree/main/reactserver
 -to Edit,Delete,Create new item with distintive qrcode
 - print button available to print coresponded qrcode
 - update date to view empty stock
+
+
+![alt text](https://github.com/JetLi1031/NavigatetoArtag/blob/main/output.gif "robot navigate output")
